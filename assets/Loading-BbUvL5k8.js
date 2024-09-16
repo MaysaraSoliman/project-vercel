@@ -1,0 +1,1 @@
+import{j as i,F as t,V as e}from"./vendor-CjS1k59k.js";function s(){return i.jsx(t,{align:"center",justify:"center",id:"loadingSpin",children:i.jsx(e,{tip:"Loading",size:"large",children:i.jsx("p",{children:"This is some content that might take time to load."})})})}export{s as L};
